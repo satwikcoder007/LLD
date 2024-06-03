@@ -12,4 +12,7 @@ public class Duck
     void performFly(){
         flyBehaviour.fly();
     }
+    void changeBehaviour(){
+        //This function can be used to change the behaviour dynamically
+    }
 }

@@ -21,3 +21,7 @@ public class Main{
         d3.performQuack();
     }
 }
+
+
+//Here we can add one more function inside the duck class to change the behavoir of the ducks
+// dynamically
