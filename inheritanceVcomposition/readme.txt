@@ -1,4 +1,4 @@
-Inheritance: It is mechanism in which a class inherit the property of  another class. the class which inherit is called subclass
+Inheritance: It is a mechanism in which a class inherit the property of  another class. the class which inherit is called subclass
              and from where it got inherited is called super class
 
 +points:  1. This result in code reusability.
